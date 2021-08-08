@@ -5,7 +5,7 @@ Telegram Display Name:USAStockMarketBot
 Telegram Username: @stockmarket_itmbot
 
 USAStockMarketBot allows users to see the latest and up-to-date stock data gathered form Yahoo Finance. 
-Run the /help command to see the commands that can be done within USAStockMarketBot!
+To start off, run the /help command to see the commands that can be done within USAStockMarketBot!
 
 Here are the stock analytics commands: 
 price [ticker] - sends stock price and its monthly candlestick graph. 
