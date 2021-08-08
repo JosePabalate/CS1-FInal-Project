@@ -14,7 +14,7 @@ volume [ticker] - sends stock volume and its monthly graph.
 /losers - sends top five stock losers today! 
 /mostactive - sends the top five most active stocks during the day! 
 
-Here are the stock info commands📝: 
+Here are the stock info command: 
 dividend [ticker] - sends recorded stock dividends. 
 summary [ticker] - sends the company background info. 
 yahoo [ticker] - sends link to stock's yahoo finance page! 
